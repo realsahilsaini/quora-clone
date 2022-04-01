@@ -1,6 +1,5 @@
 # quora-clone
-
---
+---
 
 ### 🧩Tech stack used:
 
